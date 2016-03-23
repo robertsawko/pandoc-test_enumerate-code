@@ -1,10 +1,9 @@
+- Test your code 
+- Don't use structures like this
 
-* Test your code 
-* Don't use structures like this:
+  ~~~ {.cpp}
+  // printf("hello world");
+  // prints("hello World");
+  ~~~
 
-  ```cpp
-  //Bad structure
-  //More bad structures
-  ```
-
-  As this will cause problems.
+  as this will cause problems.
